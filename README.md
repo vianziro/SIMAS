@@ -1,5 +1,5 @@
 # SIMAS
-source code inventory barang, dibuat menggunakan php native dan mysql sebagai database.<br/>
+source code Sistem Informasi Manajemen Aset, dibuat menggunakan php native dan mysql sebagai database.<br/>
 beberapa fitur Simas i<br/>
 <ol>
 <li>data barang</li>
