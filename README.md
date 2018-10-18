@@ -1,4 +1,4 @@
-# inventorybarang
+# SIMAS
 source code inventory barang, dibuat menggunakan php native dan mysql sebagai database.<br/>
 beberapa fitur Simas i<br/>
 <ol>
