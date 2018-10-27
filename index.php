@@ -113,7 +113,7 @@
                 <a  href="index.php?page=admin"><i class="fa fa-user"></i> Admin</a>
               </li>
               <li>
-                <a  href="index.php?page=perusahaan"><i class="fa fa-home"></i> Perusahaan</a>
+                <a  href="index.php?page=perusahaan"><i class="fa fa-home"></i>Instansi</a>
               </li>
             </ul>
           </li>
@@ -178,7 +178,7 @@
             elseif ($_GET['page']=="laporanprofit") {
               include 'laporanprofit.php';
             }
-            elseif ($_GET['page']=="perusahaan") {
+            elseif ($_GET['page']=="Instansi") {
               include 'perusahaan.php';
             }
             elseif ($_GET['page']=="logout") {
